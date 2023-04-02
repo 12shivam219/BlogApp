@@ -1,0 +1,8 @@
+.mini-circle {
+    border-right: 40px solid white;
+    border-top: 40px solid white;
+    border-top-right-radius: 150px;
+    margin-right: 66px;
+    padding-left: 92px;
+    padding-bottom: 92px;
+}
