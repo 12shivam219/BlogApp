@@ -17,7 +17,7 @@ export default function Header() {
           <div className='flex items-center'>
             <ul className='flex w-[240px] justify-around'>
               <li className='text-2xl'>Home</li>
-              <li className='text-2xl'>Tags</li>
+              <li className='text-2xl kanit'>Tags</li>
             </ul>
           </div>
         </div>
