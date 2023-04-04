@@ -1,5 +1,6 @@
 import React from 'react'
 import Header from '../components/Header/Header'
+import Footer from '../components/Footer/Footer'
 
 export default function CommonContainer({ children }) {
   return (
@@ -8,7 +9,7 @@ export default function CommonContainer({ children }) {
         
           <Header />
           {children}
-          {/* <Footer/> */}
+          <Footer/>
       </div>
     </>
   )
