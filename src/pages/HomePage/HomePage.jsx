@@ -14,10 +14,11 @@ export default function HomePage() {
         <div className='block w-full shadow-2xl max-width m-auto bg-white -translate-y-[140px]'>
           <div className='p-[110px] text-center'>
             <h1 className='w-[134px] m-auto text-xl font-semibold text-[#828282]'>Latest Insights</h1>
-            <hr className='w-[130px] my-2 border-[1px] mx-auto'/>
+            <hr className='w-[130px] my-2 border-[1px] mx-auto' />
           </div>
-          <Blogs />
-          
+          <div>
+            <Blogs />
+          </div>
         </div>
       </div>
 
