@@ -10,6 +10,7 @@ export default function CommonContainer({ children }) {
           <Header />
           {children}
           <Footer/>
+          
       </div>
     </>
   )

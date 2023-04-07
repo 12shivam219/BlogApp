@@ -4,7 +4,7 @@ export default function Header() {
 
   return (
     <>
-      <header className='fixed white top-0 left-0 right-0 block w-full max-width m-auto'>
+      <header className='absolute white top-0 left-0 right-0 block w-full max-width m-auto'>
         <div className='flex justify-between w-full py-12'>
           <div className='leading-[0.9]'>
             <h1 className='font-semibold text-5xl'>
